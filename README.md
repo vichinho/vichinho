@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle" style="width:60%;">
       <p>
-        En el tejido de la tecnología avanzada, se entreteje una sombra ominosa, donde la línea entre lo humano y lo artificial se desdibuja peligrosamente.
+        En el tejido de la tecnología avanzada, se entreteje una sombra ominosa, donde la línea entre lo humano y lo artificial se desdibuja peligrosamente. :rage2:
       </p>
     </td>
     <td align="right" valign="middle" style="width:40%;">
