@@ -1,14 +1,3 @@
-<!-- Profile README: github.com/vichinho -->
-
-<div align="center">
-  <h1>
-    Bienvenido 
-    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave" height="28" />
-    :)
-  </h1>
-</div>
-
-<!-- Bloque con texto a la izquierda y GIF a la derecha -->
 <table>
   <tr>
     <td valign="middle" style="width:60%;">
@@ -21,7 +10,6 @@
     </td>
   </tr>
 </table>
-<hr />
 <div align="center">
   <p>Software Engineering Student • Concepción, CL</p>
 
