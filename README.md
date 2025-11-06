@@ -1,8 +1,11 @@
 <!-- Profile README: github.com/vichinho -->
 
-<!-- Encabezado centrado -->
 <div align="center">
-  <h1>Bienvenido :)</h1>
+  <h1>
+    Bienvenido 
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave" height="28" />
+    :)
+  </h1>
 </div>
 
 <!-- Bloque con texto a la izquierda y GIF a la derecha -->
