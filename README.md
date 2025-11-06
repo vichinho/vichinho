@@ -20,6 +20,6 @@
 
   <h2>Conocimientos en</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,html,css,js,dotnet,firebase,linux,maven,mysql,php,postman,py,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,html,css,js,dotnet,linux,mysql,php,py,visualstudio,vscode" />
   </a>
 </div>
