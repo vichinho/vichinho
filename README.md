@@ -11,30 +11,9 @@
     <a href="https://github.com/vichinho">GitHub</a> •
     <a href="https://www.linkedin.com/in/vichovct">LinkedIn</a>
   </p>
-### Conocimientos en
+<h2>Conocimientos en</h2>
   <!-- Skill icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,dotnet,firebase,html,js,linux,maven,mysql,php,postman,py,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,html,css,js,dotnet,firebase,linux,maven,mysql,php,postman,py,visualstudio,vscode" />
   </a>
 </div>
-
----
-
-### Sobre mí
-- Construyo soluciones limpias y escalables con foco en calidad y simplicidad.  
-- Me gusta documentar bien, iterar rápido y mantener repos ordenados.  
-- Aprendo haciendo: pequeños ciclos, feedback temprano y mejora continua.  
-
-### Ahora
-- Microservicios con Java + Spring Boot + MySQL (DTO-first, endpoints claros).  
-- Front con React para cerrar el ciclo front–back y demos rápidas.  
-- Branding y producto para LevelUP con estética minimal gamer.  
-
-### Stack breve
-- Backend: Java, Spring Boot, Spring Security, Maven, MySQL.  
-- Arquitectura: Microservicios, API Gateway, Service Discovery, Postman.  
-- Frontend: React y tooling esencial.  
-
-### Contacto
-- Abierto a colaborar en proyectos con impacto y código mantenible.  
-- Escríbeme por LinkedIn o abre un issue en cualquier repo.  
